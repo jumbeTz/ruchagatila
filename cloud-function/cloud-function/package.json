@@ -1,7 +1,7 @@
 {
-    "name": "has-password-reset",
+    "name": "FoHS-password-reset",
     "version": "1.0.0",
-    "description": "HAS Field System - Password Reset Cloud Function",
+    "description": "FoHS Field System - Password Reset Cloud Function",
     "main": "index.js",
     "scripts": {
         "deploy": "appwrite deploy function"
