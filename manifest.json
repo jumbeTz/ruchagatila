@@ -1,1 +1,32 @@
-{"name":"HAS Field System","short_name":"HAS Field","description":"Student Training Logbook","start_url":"/","display":"standalone","display_override":["standalone","fullscreen"],"background_color":"#0F172A","theme_color":"#0F172A","orientation":"portrait-primary","scope":"/","icons":[{"src":"https://fra.cloud.appwrite.io/v1/storage/buckets/6a426a570026eb00d2a3/files/6a450f89002c34c96ce0/view?project=6a42691c0006e65e22b2","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"https://fra.cloud.appwrite.io/v1/storage/buckets/6a426a570026eb00d2a3/files/6a450f89002c34c96ce0/view?project=6a42691c0006e65e22b2","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{
+  "name": "FoHS FIELD SYSTEM",
+  "short_name": "FoHS",
+  "description": "FoHS FIELD SYSTEM",
+  "start_url": "/",
+  "scope": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8FAFC",
+  "theme_color": "#4F46E5",
+  "icons": [
+    {
+      "src": "https://fra.cloud.appwrite.io/v1/storage/buckets/6a426a570026eb00d2a3/files/6a57c85e003e6e4db57b/view?project=6a42691c0006e65e22b2",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://fra.cloud.appwrite.io/v1/storage/buckets/6a426a570026eb00d2a3/files/6a57c85e003e6e4db57b/view?project=6a42691c0006e65e22b2",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://fra.cloud.appwrite.io/v1/storage/buckets/6a426a570026eb00d2a3/files/6a57c85e003e6e4db57b/view?project=6a42691c0006e65e22b2",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
